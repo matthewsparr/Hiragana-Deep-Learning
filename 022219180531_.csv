@@ -1,0 +1,2 @@
+round_epochs,val_loss,val_acc,loss,acc,optimizer
+15,0.14456429441967794,0.965756798485292,0.16639699384595874,0.9585692947032959,<keras.optimizers.Adam object at 0x000001FAC077C978>
